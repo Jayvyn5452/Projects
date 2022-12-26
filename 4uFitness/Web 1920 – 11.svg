@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1060" height="1816" viewBox="0 0 1060 1816">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#26ee00" stop-opacity="0.569"/>
+      <stop offset="1" stop-color="#137700" stop-opacity="0.569"/>
+    </linearGradient>
+    <clipPath id="clip-Web_1920_11">
+      <rect width="1060" height="1816"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_11" data-name="Web 1920 – 11" clip-path="url(#clip-Web_1920_11)">
+    <rect width="1060" height="1816" fill="#fff"/>
+    <g id="Rectangle_84" data-name="Rectangle 84" transform="translate(0 1334)" stroke="#707070" stroke-width="1" fill="url(#linear-gradient)">
+      <rect width="1060" height="482" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1059" height="481" fill="none"/>
+    </g>
+    <path id="Path_27" data-name="Path 27" d="M4501.154,133.121v6.6l23.2,20.966h6.148l2.376-4.012v-3.883l-12.019-11.13h47.517l1.957-2.459v-6.083l-3.075-2.588-46.4-.777,12.019-10.612V115.52l-5.729-4.53-4.332,1.035Z" transform="translate(-4468.244 -87.603)" fill="rgba(16,127,72,0.8)" stroke="#fff" stroke-width="1"/>
+    <text id="Pick_your_diet_" data-name="Pick your diet
+
+" transform="translate(110 141)" fill="#707070" stroke="#fff" stroke-width="1" font-size="56" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">Pick your diet</tspan><tspan x="0" y="68"></tspan><tspan x="0" y="136"></tspan></text>
+    <g id="Rectangle_49" data-name="Rectangle 49" transform="translate(110 187)" fill="#e5e5e5" stroke="#e5e5e5" stroke-width="1">
+      <rect width="871" height="118" rx="25" stroke="none"/>
+      <rect x="0.5" y="0.5" width="870" height="117" rx="24.5" fill="none"/>
+    </g>
+    <g id="Rectangle_50" data-name="Rectangle 50" transform="translate(110 332)" fill="#e5e5e5" stroke="#e5e5e5" stroke-width="1">
+      <rect width="871" height="118" rx="25" stroke="none"/>
+      <rect x="0.5" y="0.5" width="870" height="117" rx="24.5" fill="none"/>
+    </g>
+    <g id="Rectangle_51" data-name="Rectangle 51" transform="translate(110 471)" fill="#e5e5e5" stroke="#e5e5e5" stroke-width="1">
+      <rect width="871" height="118" rx="25" stroke="none"/>
+      <rect x="0.5" y="0.5" width="870" height="117" rx="24.5" fill="none"/>
+    </g>
+    <g id="Rectangle_52" data-name="Rectangle 52" transform="translate(110 610)" fill="#e5e5e5" stroke="#e5e5e5" stroke-width="1">
+      <rect width="871" height="118" rx="25" stroke="none"/>
+      <rect x="0.5" y="0.5" width="870" height="117" rx="24.5" fill="none"/>
+    </g>
+    <g id="Rectangle_53" data-name="Rectangle 53" transform="translate(115 738)" fill="#e5e5e5" stroke="#e5e5e5" stroke-width="1">
+      <rect width="871" height="118" rx="25" stroke="none"/>
+      <rect x="0.5" y="0.5" width="870" height="117" rx="24.5" fill="none"/>
+    </g>
+    <g id="Rectangle_54" data-name="Rectangle 54" transform="translate(115 877)" fill="#e5e5e5" stroke="#e5e5e5" stroke-width="1">
+      <rect width="871" height="118" rx="25" stroke="none"/>
+      <rect x="0.5" y="0.5" width="870" height="117" rx="24.5" fill="none"/>
+    </g>
+    <g id="Rectangle_55" data-name="Rectangle 55" transform="translate(115 1016)" fill="#e5e5e5" stroke="#e5e5e5" stroke-width="1">
+      <rect width="871" height="118" rx="25" stroke="none"/>
+      <rect x="0.5" y="0.5" width="870" height="117" rx="24.5" fill="none"/>
+    </g>
+    <g id="Rectangle_56" data-name="Rectangle 56" transform="translate(115 1155)" fill="#e5e5e5" stroke="#e5e5e5" stroke-width="1">
+      <rect width="871" height="118" rx="25" stroke="none"/>
+      <rect x="0.5" y="0.5" width="870" height="117" rx="24.5" fill="none"/>
+    </g>
+    <text id="Back" transform="translate(104.5 62.5)" fill="rgba(16,127,72,0.8)" stroke="#fff" stroke-width="1" font-size="46" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">Back</tspan></text>
+    <text id="Classic" transform="translate(173 248)" stroke="#000" stroke-width="1" font-size="20" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">Classic</tspan></text>
+    <text id="Low_Carb" data-name="Low Carb" transform="translate(174 399)" stroke="#000" stroke-width="1" font-size="20" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">Low Carb</tspan></text>
+    <text id="Keto" transform="translate(188 538)" stroke="#000" stroke-width="1" font-size="20" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">Keto</tspan></text>
+    <text id="Flexitarian" transform="translate(188 677)" stroke="#000" stroke-width="1" font-size="20" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">Flexitarian</tspan></text>
+    <text id="Paleo" transform="translate(190 805)" stroke="#000" stroke-width="1" font-size="20" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">Paleo</tspan></text>
+    <text id="Vegetarian" transform="translate(190 932)" stroke="#000" stroke-width="1" font-size="20" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">Vegetarian</tspan></text>
+    <text id="Pescetarian" transform="translate(188 1083)" stroke="#000" stroke-width="1" font-size="20" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">Pescetarian</tspan></text>
+    <text id="Vegan_" data-name="Vegan " transform="translate(199 1215)" stroke="#000" stroke-width="1" font-size="20" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">Vegan </tspan></text>
+    <g id="Rectangle_57" data-name="Rectangle 57" transform="translate(317 1415)" fill="rgba(16,127,72,0.8)" stroke="rgba(16,127,72,0.8)" stroke-width="1">
+      <rect width="427" height="113" rx="15" stroke="none"/>
+      <rect x="0.5" y="0.5" width="426" height="112" rx="14.5" fill="none"/>
+    </g>
+    <text id="Continue" transform="translate(424 1490)" fill="#fff" stroke="#fff" stroke-width="1" font-size="47" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">Continue</tspan></text>
+  </g>
+</svg>
